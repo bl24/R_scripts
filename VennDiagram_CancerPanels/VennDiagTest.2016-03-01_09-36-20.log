@@ -1,0 +1,52 @@
+INFO [2016-03-01 09:36:20] $x
+INFO [2016-03-01 09:36:20] list(`Foundation\nMedicine\n(315 genes)` = c(1:3, 4:26, 27:117, 
+INFO [2016-03-01 09:36:20]     135:332), `TruSight\nTumor\n(26 genes)` = c(1:3, 4:26), `NGS\nGateway\n(131 genes)` = c(4:26, 
+INFO [2016-03-01 09:36:20]     27:117, 118:134))
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $filename
+INFO [2016-03-01 09:36:20] [1] "VennDiagTest"
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $col
+INFO [2016-03-01 09:36:20] [1] "transparent"
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $fill
+INFO [2016-03-01 09:36:20] c("red", "blue", "green")
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $alpha
+INFO [2016-03-01 09:36:20] [1] 0.5
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $label.col
+INFO [2016-03-01 09:36:20] c("darkred", "white", "darkblue", "white", "white", "white", 
+INFO [2016-03-01 09:36:20]     "darkgreen")
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $cex
+INFO [2016-03-01 09:36:20] [1] 2.5
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $fontfamily
+INFO [2016-03-01 09:36:20] [1] "serif"
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $fontface
+INFO [2016-03-01 09:36:20] [1] "bold"
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $cat.default.pos
+INFO [2016-03-01 09:36:20] [1] "text"
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $cat.col
+INFO [2016-03-01 09:36:20] c("darkred", "darkblue", "darkgreen")
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $cat.cex
+INFO [2016-03-01 09:36:20] [1] 2
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $cat.fontfamily
+INFO [2016-03-01 09:36:20] [1] "serif"
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $cat.dist
+INFO [2016-03-01 09:36:20] c(0.36, -0.16, 0.16)
+INFO [2016-03-01 09:36:20] 
+INFO [2016-03-01 09:36:20] $cat.pos
+INFO [2016-03-01 09:36:20] -10
+INFO [2016-03-01 09:36:20] 
+ERROR [2016-03-01 13:54:57] Unexpected parameter length for 'category'
+ERROR [2016-03-01 13:55:06] Unexpected parameter length for 'category'
+ERROR [2016-03-01 13:55:26] Unexpected parameter length for 'category'
+ERROR [2016-03-01 15:43:12] Invalid size of input object
